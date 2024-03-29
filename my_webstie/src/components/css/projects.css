@@ -1,0 +1,37 @@
+
+.projects {
+    background-color: #f9f9f96f;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(255, 0, 0);
+    
+  }
+  
+  .projects-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+   
+    
+  }
+  
+  .project h3 {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .project p {
+    font-size: 24px;
+    color: #000000;
+    
+  }
+ 
+
+  
